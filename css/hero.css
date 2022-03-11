@@ -10,13 +10,23 @@ header{
 	padding-bottom: 50px;
 }
 
+h1, h2{
+	font-family: 'Luckiest Guy', cursive;
+}
+
 header h1{
 	color: white;
 	font-family: helvetica, arial, sans-serif;
+	font-size: 50px;
 }
 
 header img{
 	border-radius: 170px;
     width: 300px;
     border: 20px solid #8B008B;
+}
+
+
+main{
+	max-width: 800px;
 }
