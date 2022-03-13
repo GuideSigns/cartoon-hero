@@ -5,6 +5,7 @@ body{
 	line-height: 30px;
 }
 	
+	/* header styles */
 
 header{
 	background-color: #FF4500;
@@ -53,6 +54,7 @@ a{
 a:hover{
 	color: #8B008B;
 }
+
 
 footer{
 	background-color: #FF4500;
